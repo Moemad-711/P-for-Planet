@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 95536976940f9fd4f916184ea6225bce
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ARABIAN KNIGHT
+  fontNames:
+  - ARABIAN KNIGHT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5a90c88b19bd01a4e8e7f6e6c354dab3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/WelcomeScene.unity
+    guid: 6efd1b8769f6aaa4b900b2743f432ef4
+  - enabled: 1
+    path: Assets/Scenes/SignUpScene.unity
+    guid: e95d5f55cd58e054ab302ee764fa157e
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: 731505563c36dfd429bb0b58db152bde
+  - enabled: 1
+    path: Assets/Scenes/FirstLoginScene.unity
+    guid: 05a51241763c2464abdd6c36edb26071
+  - enabled: 1
+    path: Assets/Scenes/ChoiceScene.unity
+    guid: 25130fab8bba2544a8cf11e3e8b11b40
+  - enabled: 1
+    path: Assets/Scenes/ClimateCatalogScene.unity
+    guid: e696d6eaaa1919f46acae2e2b88abcd2
+  - enabled: 1
+    path: Assets/Scenes/WeatherOrClimateScene.unity
+    guid: 9b86b66ced9c6684eb9573dab124e027
+  - enabled: 1
+    path: Assets/Scenes/TheGreenHouseEffectScene.unity
+    guid: 81c4c31685a438448a9ba48ca7245e7a
+  - enabled: 1
+    path: Assets/Scenes/CloudsAndClimateScene.unity
+    guid: bfbb7c69ecec2dc4da8a60182075057d
+  - enabled: 1
+    path: Assets/Scenes/AirPollutionScene.unity
+    guid: d806697c517af9049a782bcaa204ae0e
+  - enabled: 1
+    path: Assets/Scenes/MeasuringSeaLevelScene.unity
+    guid: 6db3ffc6c73eb5a49baf4a592e8839fe
+  - enabled: 1
+    path: Assets/Scenes/KeepInBalanceScene.unity
+    guid: 09d3ee6cdba8a1c4581e381768943426
+  - enabled: 1
+    path: Assets/Scenes/TakeTheTestScene.unity
+    guid: 2af789c78c8575e4b87d1dfff8e22497
+  m_configObjects: {}
